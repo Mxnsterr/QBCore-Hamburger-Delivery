@@ -33,6 +33,9 @@ Voeg volgende code toe aan je shared.lua in de core (kan zelf **label** en **pay
 Locaties kan je aanpassen in `config.lua` bij **Config.Locaties** en de auto ook in de `config.lua` helemaal onderaan bij **Config.Wagen** 
 (let op dat dit ofwel een GTA auto is ofwel een dat in je server zit) 
 
+## Toevoegen aan gemeentehuis
+Je moet de job in het jobmenu aan het gemeentehuis toevoegen, kijk naar hoe ze dit doen voor andere jobs. De resource noemt `YourPrefix-cityhall` *YourPrefix =(qb-, rs-, hp-)*
+
 ## Dependencies
 - Qbus core
 - Qbus Progressbars
